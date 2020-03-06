@@ -1,0 +1,3 @@
+D:\Users\bearls\source\repos\Lab7_4_BarryEarls\Lab7_4_BarryEarls\obj\Debug\netcoreapp3.1\Lab7_4_BarryEarls.csprojAssemblyReference.cache
+D:\Users\bearls\source\repos\Lab7_4_BarryEarls\Lab7_4_BarryEarls\obj\Debug\netcoreapp3.1\Lab7_4_BarryEarls.AssemblyInfoInputs.cache
+D:\Users\bearls\source\repos\Lab7_4_BarryEarls\Lab7_4_BarryEarls\obj\Debug\netcoreapp3.1\Lab7_4_BarryEarls.AssemblyInfo.cs
